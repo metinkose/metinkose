@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!--Stats-->
+
+<h2 align="center">Stats</h2>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metinkose&show_icons=true&theme=dracula)](https://github.com/metinkose/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metinkose&theme=dracula&card_width=500)](https://github.com/metinkose/github-readme-stats)
